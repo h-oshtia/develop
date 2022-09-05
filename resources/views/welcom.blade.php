@@ -17,7 +17,6 @@
         <p>一行追加</p>
 
         <style>
-        <style>
             body {
                 font-family: 'Nunito', sans-serif;
             }
